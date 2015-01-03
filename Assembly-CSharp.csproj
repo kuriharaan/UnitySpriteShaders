@@ -52,7 +52,9 @@
      <None Include="Assets\Shaders\Monochrome.shader" />
      <None Include="Assets\Shaders\Distortion.shader" />
      <None Include="Assets\Shaders\DiffuseTexture.shader" />
+     <None Include="Assets\Shaders\Scattering.shader" />
      <None Include="Assets\Shaders\fractal.shader" />
+     <None Include="Assets\Shaders\RotateUV.shader" />
      <None Include="Assets\Shaders\VertexLitSimple.shader" />
      <None Include="Assets\Shaders\TransformVertex.shader" />
      <None Include="Assets\Shaders\DiffuseSimple.shader" />
